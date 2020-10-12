@@ -5,7 +5,7 @@ Code for paper [Online Video Object Detection via Local and Mid-Range Feature Pr
 
 ## Introduction
 
-![Pipeline](https://user-images.githubusercontent.com/23008175/90168988-89058d80-ddd0-11ea-8f7b-c2c669d1f6cf.png =300x400)
+![Pipeline](https://user-images.githubusercontent.com/23008175/90168988-89058d80-ddd0-11ea-8f7b-c2c669d1f6cf.png)
 
 ## Installation
 
