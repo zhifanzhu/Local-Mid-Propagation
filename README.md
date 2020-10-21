@@ -5,7 +5,7 @@ Code for ACM MM Workshop paper [Online Video Object Detection via Local and Mid-
 
 ## Introduction
 
-![Pipeline](https://user-images.githubusercontent.com/23008175/90168988-89058d80-ddd0-11ea-8f7b-c2c669d1f6cf.png)
+<img src="https://user-images.githubusercontent.com/23008175/90168988-89058d80-ddd0-11ea-8f7b-c2c669d1f6cf.png" height="60%" width="60%" >
 
 ## Installation
 
