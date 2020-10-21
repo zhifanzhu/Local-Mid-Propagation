@@ -1,7 +1,7 @@
 
 # Local and Mid-range Propagation for video object detection (VID)
 
-Code for paper [Online Video Object Detection via Local and Mid-Range Feature Propagation] (To be appeared in MM2020 HCMA Workshop)
+Code for ACM MM Workshop paper [Online Video Object Detection via Local and Mid-Range Feature Propagation](https://dl.acm.org/doi/10.1145/3422852.3423477)
 
 ## Introduction
 
